@@ -1,1 +1,1 @@
-https://mariiafil.github.io/layout_miami/
+https://mariiafil.github.io/blog_layout/

@@ -1,0 +1,12 @@
+@import "utils";
+@import "fonts";
+@import "./blog";
+@import "./article";
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
